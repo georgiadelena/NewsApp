@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_select_topic_labels">
+        <item>@string/settings_select_football_label</item>
+        <item>@string/settings_select_sports_label</item>
+        <item>@string/settings_select_politics_label</item>
+        <item>@string/settings_select_education_label</item>
+        <item>@string/settings_finance_label</item>
+    </string-array>
+
+    <string-array name="settings_select_topic_values">
+        <item>@string/settings_select_football_value</item>
+        <item>@string/settings_select_sports_value</item>
+        <item>@string/settings_select_politics_value</item>
+        <item>@string/settings_select_education_value</item>
+        <item>@string/settings_finance_value</item>
+    </string-array>
+</resources>
